@@ -1,0 +1,47 @@
+NovaMind AI — Company Overview
+================================
+
+Company Name: NovaMind AI
+Founded: 2021
+Headquarters: Austin, Texas, USA
+CEO: Dr. Priya Anand
+CTO: Marcus Leung
+Total Employees: 87
+Funding Stage: Series B ($42M raised)
+
+Mission
+-------
+NovaMind AI's mission is to make intelligent automation accessible to small and mid-sized businesses that lack the engineering resources of large enterprises. We believe every business deserves AI that actually works for them.
+
+What We Do
+----------
+NovaMind AI builds a no-code AI workflow platform called FlowMind. FlowMind allows non-technical users to create, deploy, and manage AI-powered automations using a drag-and-drop interface. Our platform connects to over 200 third-party services including Slack, Salesforce, Notion, QuickBooks, and Shopify.
+
+Core Products
+-------------
+1. FlowMind Studio — the main drag-and-drop automation builder
+2. FlowMind Insights — an analytics dashboard showing automation performance
+3. FlowMind Copilot — an AI assistant embedded inside FlowMind Studio that suggests workflow improvements
+
+Key Customers
+-------------
+NovaMind AI currently serves over 1,400 businesses across 34 countries. Notable customers include Brightleaf Logistics, Sunvera Health, and Pebble Street Media. Our average customer saves 14 hours per week through FlowMind automations.
+
+Team Highlights
+---------------
+- Dr. Priya Anand (CEO): Former ML researcher at Stanford, previously VP of Product at DataRobot.
+- Marcus Leung (CTO): Co-founder of DevGrid (acquired by Atlassian in 2019), expert in distributed systems.
+- Sofia Reyes (Head of Design): Previously led design at Figma's enterprise team.
+- James Okoro (VP of Sales): 12 years in B2B SaaS sales, previously at HubSpot and Intercom.
+
+Company Values
+--------------
+- Simplicity first: We remove complexity so our customers can focus on their business.
+- Radical transparency: We share metrics, roadmaps, and mistakes openly with customers and staff.
+- Customer obsession: Every product decision starts with a real customer problem.
+
+Contact
+-------
+Website: www.novamind-ai.com
+Support: support@novamind-ai.com
+Partnerships: partners@novamind-ai.com

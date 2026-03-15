@@ -1,0 +1,62 @@
+FlowMind — Product Specification
+==================================
+
+Product Name: FlowMind
+Version: 3.2.1
+Released: February 2026
+Platform: Web (Chrome, Firefox, Safari), iOS, Android
+
+Overview
+--------
+FlowMind is NovaMind AI's flagship no-code automation platform. It enables users to build AI-powered workflows without writing a single line of code. Workflows can trigger on events (e.g. a new email, a form submission, a Slack message) and perform actions (e.g. update a database, send a reply, generate a report).
+
+Key Features
+------------
+- Drag-and-drop workflow builder with 200+ pre-built connectors
+- AI Step: a native block that calls an LLM to classify, summarize, extract, or generate content
+- Conditional logic: if/else branches, loops, and error handlers
+- Version history: every workflow change is saved and can be rolled back
+- Live debugger: step through a workflow run in real time to identify issues
+- Role-based access control: admin, editor, and viewer roles
+- SOC 2 Type II certified
+
+Pricing Plans
+-------------
+Starter Plan: $29/month
+  - Up to 3 active workflows
+  - 5,000 workflow runs/month
+  - Email support
+
+Growth Plan: $99/month
+  - Up to 25 active workflows
+  - 50,000 workflow runs/month
+  - Priority support + onboarding call
+
+Business Plan: $299/month
+  - Unlimited workflows
+  - 500,000 workflow runs/month
+  - Dedicated success manager
+  - Custom connectors on request
+
+Enterprise Plan: Custom pricing
+  - Unlimited everything
+  - On-premise deployment option
+  - SLA guarantee (99.9% uptime)
+  - SSO and advanced security controls
+
+System Requirements
+-------------------
+- Browser: Chrome 110+, Firefox 110+, Safari 16+
+- Internet connection required (no offline mode)
+- Mobile app requires iOS 15+ or Android 10+
+
+Integrations
+------------
+FlowMind connects natively to: Slack, Gmail, Outlook, Salesforce, HubSpot, Notion, Airtable, Google Sheets, Shopify, Stripe, QuickBooks, Zendesk, Jira, GitHub, Twilio, and 185+ others. Custom REST API and webhook connectors are available on Growth plan and above.
+
+Recent Updates (v3.2.1)
+-----------------------
+- Added GPT-4o support in the AI Step block
+- Improved loop performance by 40% for large datasets
+- New Shopify connector with order and inventory triggers
+- Fixed bug where conditional branches occasionally skipped on timeout
